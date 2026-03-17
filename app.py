@@ -1,0 +1,3 @@
+print("Hello DevSecOps")
+
+AWS_SECRET_ACCESS_KEY = "AKIASBU3Z2WHCUD3SRFT"
